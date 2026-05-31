@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/nataraja7892-lab/nataraja7892-lab/output/github-contribution-grid-snake-dark.svg)### 👋 Hi, I'm Nataraja M
+### 👋 Hi, I'm Nataraja M
 
 **Python Developer | Backend Architect**
 
