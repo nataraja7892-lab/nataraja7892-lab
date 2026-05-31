@@ -17,7 +17,9 @@
 - ⚡ Fun fact: Code. Learn. Build. Repeat.
 
 ---
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Architect;Problem+Solver;Open+Source+Contributor" />
+</h2>
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=dark)
