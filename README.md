@@ -20,6 +20,22 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Architect;Problem+Solver;Open+Source+Contributor" />
 </h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataraja7892-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=dark)
