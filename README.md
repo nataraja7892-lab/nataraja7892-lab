@@ -36,12 +36,19 @@
     </tr>
   </table>
 </div>
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataraja7892-lab&layout=compact&theme=dark)
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### 💻 Tech Stack
 
@@ -75,7 +82,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://graceful-travesseiro-a51e31.netlify.app/)
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/nataraja7892-lab?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/nataraja7892-lab?label=Total%20Stars&style=social" />
+</p>
 ### 🎨 Visitor Counter
 
 ![Visitors](https://komarev.com/ghpvc/?username=nataraja7892-lab&color=blue)
