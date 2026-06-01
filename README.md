@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/github/followers/nataraja7892-lab?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/nataraja7892-lab?label=Total%20Stars&style=social" />
 </p>
-### 🎨 Visitor Counter
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=nataraja7892-lab&color=blue)
 
