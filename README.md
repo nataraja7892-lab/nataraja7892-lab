@@ -1,28 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=500&height=70&lines=Nataraja+M;Python+Developer;Backend+Architect" />
+  
+# Hi 👋, I'm Nataraja M
+
+### 📍 From Hospet, Karnataka, India
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=500&height=40&lines=Python+Developer;Backend+Architect;Problem+Solver;DSA+Enthusiast" />
+
+<br/>
+
+[![Projects](https://img.shields.io/badge/Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nataraja7892-lab?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataraja-m-707622384/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://graceful-travesseiro-a51e31.netlify.app/)
+
 </div>
-<div align="center">
   
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nataraja+M;Python+Developer;Backend+Architect;Problem+Solver" />
-  
-  <br/>
+
   
   <!-- Coding Animation -->
+  <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   
   <br/>
   
-  <!-- Social Badges -->
-  <a href="https://github.com/nataraja7892-lab">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nataraja-m-707622384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nataraja7892@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
   
   <br/>
   
