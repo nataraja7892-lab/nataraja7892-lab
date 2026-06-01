@@ -1,9 +1,5 @@
 <div align="center">
-  
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Nataraja M**
- 
-### *Python Developer | Backend Architect*
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=500&height=70&lines=Nataraja+M;Python+Developer;Backend+Architect" />
 </div>
 <div align="center">
   
