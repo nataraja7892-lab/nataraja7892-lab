@@ -67,10 +67,12 @@
 
 ---
 
-### 🎯 Featured Projects
-
-- **Employee Management System** - [Live Demo](https://employee-management-1-1a5p.onrender.com) | [GitHub](https://github.com/nataraja7892-lab/employee-management)
-- **Exam Management Platform** - [Live Demo](https://exam-managements-6.onrender.com) | [GitHub](https://github.com/nataraja7892-lab/exam_managements)
+🎯 Featured Projects
+Project	Tech Stack	Links
+Employee Management System	Django, PostgreSQL	🔗 Live | 📁 Code
+Exam Management Platform	Django, React	🔗 Live | 📁 Code
+Pet Adoption Network	FastAPI, MongoDB	📁 Code
+BragBoard AI Platform	FastAPI, WebSockets, OpenAI	📁 Code
 
 ---
 
