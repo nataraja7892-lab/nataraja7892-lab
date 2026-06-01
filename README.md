@@ -1,19 +1,41 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nataraja+M;Python+Developer;Backend+Architect" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</div>
-
-<br/>
-
 <div align="center">
   
-  ### 📍 **Hospet, Karnataka, India** &nbsp;|&nbsp; 🎓 **BCA | CGPA: 8.9/10** &nbsp;|&nbsp; 📧 **nataraja7892@gmail.com**
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nataraja+M;Python+Developer;Backend+Architect;Problem+Solver" />
+  
+  <br/>
+  
+  <!-- Coding Animation -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  
+  <br/>
+  
+  <!-- Social Badges -->
+  <a href="https://github.com/nataraja7892-lab">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nataraja-m-707622384/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nataraja7892@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br/>
+  
+  <!-- Info Cards -->
+  <table>
+    <tr>
+      <td>📍 <b>Location</b></td>
+      <td>🎓 <b>Education</b></td>
+      <td>📧 <b>Email</b></td>
+    </tr>
+    <tr>
+      <td>Hospet, Karnataka</td>
+      <td>BCA | 8.9 CGPA</td>
+      <td>nataraja7892@gmail.com</td>
+    </tr>
+  </table>
   
 </div>
 
@@ -23,47 +45,41 @@
 
 <div align="center">
   
-| | |
-|---|---|
-| 🔭 | **I build scalable backend systems and REST APIs** |
-| 🌱 | **Learning System Design & Cloud Architecture** |
-| 💬 | **Ask me about Python, Django, FastAPI** |
-| ⚡ | **Fun fact: Code. Learn. Build. Repeat.** |
-
+  <table>
+    <tr>
+      <td>🔭</td>
+      <td><b>I build scalable backend systems and REST APIs</b></td>
+    </tr>
+    <tr>
+      <td>🌱</td>
+      <td><b>Learning System Design & Cloud Architecture</b></td>
+    </tr>
+    <tr>
+      <td>💬</td>
+      <td><b>Ask me about Python, Django, FastAPI</b></td>
+    </tr>
+    <tr>
+      <td>⚡</td>
+      <td><b>Fun fact: Code. Learn. Build. Repeat.</b></td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&label=Profile%20Views&color=0e75b6&style=flat" />
-</div>
-
----
-
-<div align="center">
+  
+  <!-- Stats Preview -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataraja7892-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
+  
+  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/nataraja7892-lab?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/nataraja7892-lab?label=Total%20Stars&style=social" />
-</div>
----
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Architect;Problem+Solver;Open+Source+Contributor" />
-</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataraja7892-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  
 </div>
 
 ### 📊 GitHub Stats
