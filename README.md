@@ -100,13 +100,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataraja7892-lab&theme=tokyonight" width="60%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nataraja7892-lab&theme=darkhub" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nataraja7892-lab&theme=tokyonight" width="100%" />
-</div>
 
 
 ---
