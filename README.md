@@ -107,10 +107,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nataraja7892-lab&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  
+| Achievement | How to Get |
+|-------------|------------|
+| 🦈 **Pull Shark** | Get pull requests merged (4 for bronze, 16 for silver, 128 for gold) |
+| 🌟 **Starstruck** | Get 16 stars on a single repository (bronze) |
+| 💬 **Pair Extraordinaire** | Have a PR reviewed and merged |
+| ⚡ **Quickdraw** | Merge a PR within 5 minutes of opening |
+| 💝 **Sponsor** | Sponsor any developer on GitHub |
+
 </div>
 
 ### 💻 Tech Stack
