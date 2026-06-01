@@ -85,11 +85,32 @@
   
 </div>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataraja7892-lab&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataraja7892-lab&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataraja7892-lab&theme=tokyonight" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nataraja7892-lab&theme=darkhub" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nataraja7892-lab&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Natarajam1234?theme=dark" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&color=blue" />
+</div>
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
