@@ -1,5 +1,12 @@
 <div align="center">
   
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Nataraja M**
+ 
+### *Python Developer | Backend Architect*
+
+</div>
+<div align="center">
+  
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nataraja+M;Python+Developer;Backend+Architect;Problem+Solver" />
   
