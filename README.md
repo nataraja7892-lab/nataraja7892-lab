@@ -104,20 +104,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nataraja7892-lab&theme=tokyonight" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Natarajam1234?theme=dark" width="50%" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&color=blue" />
-</div>
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
