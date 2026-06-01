@@ -133,31 +133,62 @@
 
 ## 🎯 Featured Projects
 
-### 🏢 Employee Management System
-- **Tech Stack:** Django, PostgreSQL, Redis, Docker
-- **Features:** Role-based authentication, JWT tokens, real-time notifications, 40% faster response time
-- **Links:** [🔗 Live Demo](https://employee-management-1-1a5p.onrender.com) | [📁 Source Code](https://github.com/nataraja7892-lab/employee-management)
+<div align="center">
 
----
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏢 Employee Management System</h3>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <br/>
+      <p>Role-based authentication, JWT tokens, real-time notifications, 40% faster response time</p>
+      <a href="https://employee-management-1-1a5p.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-25D366?style=for-the-badge&logo=render&logoColor=white" />
+      </a>
+      <a href="https://github.com/nataraja7892-lab/employee-management">
+        <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎓 Exam Management Platform</h3>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br/>
+      <p>AI-powered proctoring, real-time analytics, automated scheduling</p>
+      <a href="https://exam-managements-6.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-25D366?style=for-the-badge&logo=render&logoColor=white" />
+      </a>
+      <a href="https://github.com/nataraja7892-lab/exam_managements">
+        <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🐾 Pet Adoption Network</h3>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <br/>
+      <p>Real-time availability, AI-based matching, community forums</p>
+      <a href="https://github.com/nataraja7892-lab/pet_mgmt.git">
+        <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 BragBoard AI Platform</h3>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+      <br/>
+      <p>Real-time feeds, AI-powered assistant, skill-based tagging</p>
+      <a href="https://github.com/nataraja7892-lab/bragboard-1">
+        <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🎓 Exam Management Platform
-- **Tech Stack:** Django, React, Celery, Redis
-- **Features:** AI-powered proctoring, real-time analytics, automated scheduling
-- **Links:** [🔗 Live Demo](https://exam-managements-6.onrender.com) | [📁 Source Code](https://github.com/nataraja7892-lab/exam_managements)
-
----
-
-### 🐾 Pet Adoption Network
-- **Tech Stack:** FastAPI, MongoDB, React, Tailwind
-- **Features:** Real-time availability, AI-based matching, community forums
-- **Links:** [📁 Source Code](https://github.com/nataraja7892-lab/pet_mgmt.git)
-
----
-
-### 🤖 BragBoard - AI Achievement Platform
-- **Tech Stack:** FastAPI, React, WebSockets, OpenAI API
-- **Features:** Real-time feeds, AI-powered assistant, skill-based tagging
-- **Links:** [📁 Source Code](https://github.com/nataraja7892-lab/bragboard-1)
+</div>
 ---
 
 ### 📫 Connect with Me
