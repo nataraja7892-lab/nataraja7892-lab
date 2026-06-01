@@ -62,13 +62,33 @@
 
 ---
 
-🎯 Featured Projects
-Project	Tech Stack	Links
-Employee Management System	Django, PostgreSQL	🔗 Live | 📁 Code
-Exam Management Platform	Django, React	🔗 Live | 📁 Code
-Pet Adoption Network	FastAPI, MongoDB	📁 Code
-BragBoard AI Platform	FastAPI, WebSockets, OpenAI	📁 Code
+## 🎯 Featured Projects
 
+### 🏢 Employee Management System
+- **Tech Stack:** Django, PostgreSQL, Redis, Docker
+- **Features:** Role-based authentication, JWT tokens, real-time notifications, 40% faster response time
+- **Links:** [🔗 Live Demo](https://employee-management-1-1a5p.onrender.com) | [📁 Source Code](https://github.com/nataraja7892-lab/employee-management)
+
+---
+
+### 🎓 Exam Management Platform
+- **Tech Stack:** Django, React, Celery, Redis
+- **Features:** AI-powered proctoring, real-time analytics, automated scheduling
+- **Links:** [🔗 Live Demo](https://exam-managements-6.onrender.com) | [📁 Source Code](https://github.com/nataraja7892-lab/exam_managements)
+
+---
+
+### 🐾 Pet Adoption Network
+- **Tech Stack:** FastAPI, MongoDB, React, Tailwind
+- **Features:** Real-time availability, AI-based matching, community forums
+- **Links:** [📁 Source Code](https://github.com/nataraja7892-lab/pet_mgmt.git)
+
+---
+
+### 🤖 BragBoard - AI Achievement Platform
+- **Tech Stack:** FastAPI, React, WebSockets, OpenAI API
+- **Features:** Real-time feeds, AI-powered assistant, skill-based tagging
+- **Links:** [📁 Source Code](https://github.com/nataraja7892-lab/bragboard-1)
 ---
 
 ### 📫 Connect with Me
