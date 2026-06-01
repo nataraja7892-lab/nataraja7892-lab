@@ -79,11 +79,15 @@
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/nataraja7892-lab?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/nataraja7892-lab?label=Total%20Stars&style=social" />
-  
-</div>
+
+## 🏆 Achievements
+
+| 🏅 Achievement | 🏷️ Badge | 📅 Year |
+|----------------|----------|---------|
+| 🥇 1st Prize - Tech Event | ![Gold](https://img.shields.io/badge/GOLD-FFD700?style=flat-square&logo=medal&logoColor=white) | 2024 |
+| 🥉 2nd Runner-up - Hackathon | ![Bronze](https://img.shields.io/badge/BRONZE-CD7F32?style=flat-square&logo=medal&logoColor=white) | 2024 |
+| 👨‍💻 Intern at Infosys | ![Infosys](https://img.shields.io/badge/INFOSYS-0078D4?style=flat-square&logo=infosys&logoColor=white) | 2025 |
+| ⚡ DSA Enthusiast | ![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black) | Ongoing |
 
 ## 📊 GitHub Stats
 
@@ -121,8 +125,44 @@
 
 </div>
 
-### 💻 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,nodejs,postgresql,mongodb,docker,git,aws,figma" /> </p><!-- Skills with Badges --><p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p><!-- LeetCode Progress -->
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 📊 Data Structures & Algorithms
+
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-0088CC?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=tree&logoColor=white)
+
+### 🗄️ Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🛠️ Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ### 📈 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Natarajam1234?theme=dark)
