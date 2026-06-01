@@ -1,21 +1,74 @@
 
-### 👋 Hi, I'm Nataraja M
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nataraja+M;Python+Developer;Backend+Architect;Problem+Solver" />
+</div>
 
-**Python Developer | Backend Architect**
+<br/>
 
-📍 Hospet, Karnataka, India  
-🎓 BCA at Vijayanagara Sri Krishnadevaraya University (CGPA: 8.9/10)  
-📧 nataraja7892@gmail.com  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Location-📍-blue?style=flat-square" />
+      <br/>
+      <b>Hospet, Karnataka, India</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Education-🎓-green?style=flat-square" />
+      <br/>
+      <b>BCA | CGPA: 8.9/10</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Email-📧-red?style=flat-square" />
+      <br/>
+      <b>nataraja7892@gmail.com</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I build scalable backend systems and REST APIs
-- 🌱 Learning System Design & Cloud Architecture
-- 💬 Ask me about Python, Django, FastAPI
-- ⚡ Fun fact: Code. Learn. Build. Repeat.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🔭 <b>I build scalable backend systems and REST APIs</b></li>
+          <li>🌱 <b>Learning System Design & Cloud Architecture</b></li>
+          <li>💬 <b>Ask me about Python, Django, FastAPI</b></li>
+          <li>⚡ <b>Fun fact: Code. Learn. Build. Repeat.</b></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nataraja7892-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nataraja7892-lab&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/nataraja7892-lab?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/nataraja7892-lab?label=Total%20Stars&style=social" />
+</div>
 ---
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Architect;Problem+Solver;Open+Source+Contributor" />
