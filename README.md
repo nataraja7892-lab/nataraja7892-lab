@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nataraja7892-lab&theme=tokyonight&no-frame=true&row=2&column=4" /> </p><!-- Tech Stack -->
 
 ### 💻 Tech Stack
 
